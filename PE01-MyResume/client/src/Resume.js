@@ -7,7 +7,7 @@ const Resume = () => {
       <header className="header">
         <h1>Chen Yuan</h1>
         <p>
-          123 Main Street, Anytown USA, 12345 | (123) 456-7890 | studentname@email.com
+          521 Wall St #100, Seattle, WA 98121 | (xxx) xxx-xxxx | yuanchen1@cityuniversity.edu
         </p>
       </header>
 
