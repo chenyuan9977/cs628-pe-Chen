@@ -22,7 +22,7 @@ There are two .js files serving functionally in the project. The function of eac
     - index (a number) → The position of the task in the list.
     - handleDeleteTask (a function) → A function that deletes the task when called.
     
-    Inside the component, it displays the task inside an <li> (list item). A <button> is included that triggers handleDeleteTask(index), which removes the task when clicked.
+    Inside the component, it displays the task inside an &lt;li&gt; (list item). A <button> is included that triggers handleDeleteTask(index), which removes the task when clicked.
 
 - ToDoList.js
 
