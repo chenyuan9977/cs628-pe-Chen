@@ -16,10 +16,9 @@ The project start with the empty task list. Enter the new task and click "Add Ta
 ![App Screenshot](./main.PNG)
 
 # Process
- Item 1
-- Item 2
-- Item 3
-  - Sub Item 1
-  - Sub Item 2
+- Add task
+    - Enter the task description, then click "Add Task" to append it to the list. 
+- Delete task
+    - Each task can be removed by clicking the bottom "Delete".
 
 # Output
