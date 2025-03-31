@@ -37,3 +37,9 @@ There are 3 main functional .js files in the project:
     - The AddCity Component main function is to allow the user to input the name, country, and population of a city and then add that city to the list (through the onAddCity callback passed as a prop).
 
 # Output
+- The project's display three default cities, i.e, New York, London, and Tokyo. 
+- Click the button "Add City" allows user to add new city when providing "City Name", "Country", and "Population". The new city will display at mainland after click the button "Add City"
+
+![App Screenshot](./addCity.PNG)
+
+![App Screenshot](./addCity2.PNG)
