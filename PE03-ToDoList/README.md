@@ -29,12 +29,13 @@ There are two .js files serving functionally in the project. The function of eac
     - setTodos (a function) → A state updater function to modify the list.
     
     Inside the component:
-        - The handleDeleteTask function removes an item from todos based on its index.
-        - The list is displayed using <ul>, and each item is mapped to a ToDoItem component.
-        - Each ToDoItem gets:
-            - The task (text of the item).
-            - The index (its position in the list).
-            - The handleDeleteTask function.
+
+    - The handleDeleteTask function removes an item from todos based on its index.
+    - The list is displayed using <ul>, and each item is mapped to a ToDoItem component.
+    - Each ToDoItem gets:
+        - The task (text of the item).
+        - The index (its position in the list).
+        - The handleDeleteTask function.
 
 # Output
 - Add task
