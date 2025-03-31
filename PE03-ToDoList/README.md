@@ -16,6 +16,10 @@ The project start with the empty task list. Enter the new task and click "Add Ta
 ![App Screenshot](./main.PNG)
 
 # Process
-
+ Item 1
+- Item 2
+- Item 3
+  - Sub Item 1
+  - Sub Item 2
 
 # Output
